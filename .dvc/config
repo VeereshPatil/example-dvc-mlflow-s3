@@ -2,7 +2,7 @@
     remote = s3remote
 ['remote "s3remote"']
     url = S3://dvc-example
-    eendpointurl = http://mip-bd-ap05-n2-vm05.mip.storage.hpecorp.net:10009/
+    endpointurl = http://mip-bd-ap05-n2-vm05.mip.storage.hpecorp.net:10009/
     access_key_id = admin
     secret_access_key = admin123
     use_ssl = false
