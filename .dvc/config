@@ -1,0 +1,8 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = S3://dvc-example
+    endpointurl = http://{AWS_S3_URL}:{PORT}/
+    access_key_id = admin
+    secret_access_key = admin
+    use_ssl = false
