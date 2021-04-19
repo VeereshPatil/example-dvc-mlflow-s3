@@ -1,0 +1,4 @@
+outs:
+- etag: 558a08bfda3955c8506436677352f7b8
+  size: 2180
+  path: remote://s3remote/airline-passengers.csv
